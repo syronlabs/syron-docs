@@ -71,8 +71,9 @@ const config: Config = {
     navbar: {
       title: "Syron",
       logo: {
-        alt: "Syron Logo",
         src: "img/logo.svg",
+        srcDark: "img/logo-light.svg",
+        alt: "Syron Logo",
       },
       items: [
         {
